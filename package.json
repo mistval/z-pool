@@ -1,6 +1,6 @@
 {
   "name": "zz-pool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Limit how many asynchronous operations can be in-flight simultaneously.",
   "main": "index.js",
   "scripts": {
